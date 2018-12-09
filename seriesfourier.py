@@ -45,3 +45,5 @@ for j in range(1, armonicos + 1):
 
 plotting.plot3d(serie)
 
+#plotting.plot(serie, ylim=(-0.5, 1.5), xlim=(-0.5,5))
+
